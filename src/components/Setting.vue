@@ -1,4 +1,5 @@
 <template>
+  <div>
   <div
     class="w-full bg-white p-4 shadow-lg rounded border-t-4 border-green-600"
   >
@@ -102,6 +103,7 @@
     >
       GENERATE
     </button>
+  </div>
   </div>
 </template>
 
